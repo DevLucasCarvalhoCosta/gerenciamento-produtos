@@ -1,4 +1,3 @@
-
 # Sistema de Gerenciamento de Usuários e Produtos
 
 ## Descrição do Projeto
