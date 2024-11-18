@@ -33,10 +33,10 @@ Este projeto é um sistema desenvolvido para gerenciar usuários e produtos, com
 ## Diagramas
 
 ### Diagrama de Caso de Uso
-![Diagrama de Caso de Uso](./scr/diagramas/Diagrama%20de%20casos%20de%20uso.png)
+![Diagrama de Caso de Uso](./main/scr/diagramas/Diagrama%20de%20casos%20de%20uso.png)
 
 ### Diagrama de Classes
-![Diagrama de Classes](./scr/diagramas/Diagrama%20de%20Classes.png)
+![Diagrama de Classes](./main/scr/diagramas/Diagrama%20de%20Classes.png)
 
 ## Casos de Teste
 O sistema foi extensivamente testado com o framework JUnit 5. Os testes incluem:
