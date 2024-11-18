@@ -30,8 +30,13 @@ Este projeto é um sistema desenvolvido para gerenciar usuários e produtos, com
 - **Atualização de Produtos:** Validações aplicadas durante a atualização (nome, descrição e preço).
 - **Listagem de Produtos:** Retorno de todos os produtos cadastrados.
 
-## Diagrama de Classes e Casos de Uso
-Os diagramas de classe e caso de uso detalham a arquitetura e as interações no sistema.
+## Diagramas
+
+### Diagrama de Caso de Uso
+![Diagrama de Caso de Uso](./Diagramas/diagrama_casos_de_uso.png)
+
+### Diagrama de Classes
+![Diagrama de Classes](./Diagramas/Diagrama_de_Classes.png)
 
 ## Casos de Teste
 O sistema foi extensivamente testado com o framework JUnit 5. Os testes incluem:
